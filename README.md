@@ -7,7 +7,7 @@ This repository contains a [Homebrew](https://brew.sh) formula for installing [C
 To install Cecil, you need to tap the repository first:
 
 ```bash
-brew tap cecil/cecil
+brew tap cecilapp/cecil
 ```
 
 Then install Cecil using the following command:
