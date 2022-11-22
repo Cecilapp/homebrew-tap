@@ -1,10 +1,10 @@
-# Homebrew Cecil Formula
+# Homebrew Cecil Formulae
 
-This repository contains a [Homebrew](https://brew.sh) formula for installing [Cecil](https://github.com/Cecilapp/Cecil) on MacOS.
+This repository contains a [Homebrew](https://brew.sh) Formulae for installing [Cecil](https://github.com/Cecilapp/Cecil) on macOS.
 
 ## Usage
 
-To install Cecil, you need to tap the repository first:
+First you need to _tap_ the repository:
 
 ```bash
 brew tap cecilapp/cecil
@@ -19,5 +19,5 @@ brew install cecil
 You can then run the `cecil` command from anywhere in the system:
 
 ```bash
-cecil -V
+cecil --version
 ```
