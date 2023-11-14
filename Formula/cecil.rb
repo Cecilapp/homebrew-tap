@@ -2,9 +2,9 @@ class Cecil < Formula
   desc "Your content driven static site generator."
   homepage "https://cecil.app"
 
-  url "https://github.com/Cecilapp/Cecil/releases/download/7.53.1/cecil.phar"
-  version "7.53.1"
-  sha256 "2a0f2673c7cdcb7ccce52c9948f79fbdea659a715f2aefd48718157047bb5697"
+  url "https://github.com/Cecilapp/Cecil/releases/download/7.54.0/cecil.phar"
+  version "7.54.0"
+  sha256 "b1af8bd290c5e907071d7af76c812099f1853780860322909199619b220c464e"
 
   license "MIT"
 
