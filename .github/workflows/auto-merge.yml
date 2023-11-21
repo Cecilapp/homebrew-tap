@@ -9,11 +9,11 @@ permissions:
   contents: write
 
 jobs:
-  dependabot:
+  merge-formula-pr:
     runs-on: ubuntu-latest
     if: ${{ github.actor == 'ArnaudLigny' }}
     steps:
-      - name: Auto-merge `bump-formula-pr`
+      - name: Auto-merge Formula PR
         run: gh pr merge --auto --merge "$PR_URL"
         env:
           PR_URL: ${{github.event.pull_request.html_url}}
