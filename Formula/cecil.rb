@@ -11,7 +11,7 @@ class Cecil < Formula
 
   def install
     bin.install "cecil.phar" => "cecil"
-    ohai "Run `cecil` to get started\n"
+    ohai "Run `cecil` to get started"
   end
 
   test do
