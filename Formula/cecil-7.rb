@@ -15,6 +15,6 @@ class Cecil7 < Formula
   end
 
   test do
-    shell_output("#{bin}/cecil --version").include?(version)
+    shell_output("#{bin}/cecil-7 --version").include?(version)
   end
 end
