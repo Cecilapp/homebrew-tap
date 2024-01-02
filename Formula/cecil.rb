@@ -5,7 +5,7 @@ class Cecil < Formula
 
   url "https://github.com/Cecilapp/Cecil/releases/download/8.1.5/cecil.phar"
   version "8.1.5"
-  sha256 "e2cef9ab7d5f7d1f08cfec6e8af80a20869d5692734c35aa18f7a9f575cbe14c"
+  sha256 "4ae3c3f78e2e8738f3dda750a553362285a8e3484a1c20f4ec2c44e8ce5d1506"
 
   depends_on "php"
 
