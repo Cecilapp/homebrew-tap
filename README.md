@@ -26,6 +26,6 @@ Then run one of the following commands:
 
 ```bash
 brew install cecil
-brew install cecil-7
 brew install cecil-beta
+brew install cecil-7
 ```
