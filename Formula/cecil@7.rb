@@ -1,4 +1,4 @@
-class Cecil7 < Formula
+class CecilAT7 < Formula
   desc "Your content driven static site generator."
   homepage "https://cecil.app"
   license "MIT"
