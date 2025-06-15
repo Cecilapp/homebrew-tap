@@ -3,9 +3,9 @@ class Cecil < Formula
   homepage "https://cecil.app"
   license "MIT"
 
-  version "8.50.1"
-  url "https://github.com/Cecilapp/Cecil/releases/download/8.50.1/cecil.phar"
-  sha256 "6ed17bfdd4e84a29f828ec34a901f21f5b64cb60bdf4283db7685bd499ca966d"
+  version "8.50.2"
+  url "https://github.com/Cecilapp/Cecil/releases/download/8.50.2/cecil.phar"
+  sha256 "6dcd6681220fcce040cd025fbc9fe54631504a6014b5975297736fe2d35084f0"
 
   depends_on "php"
 
