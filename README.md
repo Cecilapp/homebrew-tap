@@ -1,4 +1,4 @@
-# Homebrew Cecil Formulae
+# 🍺 Homebrew Cecil Formulae
 
 This repository contains a [Homebrew](https://brew.sh) Formulae for installing [Cecil](https://github.com/Cecilapp/Cecil) on macOS.
 
