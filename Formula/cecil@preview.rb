@@ -7,6 +7,8 @@ class CecilPreview < Formula
   url "https://github.com/Cecilapp/Cecil/releases/download/X.YY.Z/cecil.phar"
   sha256 "xxxx"
 
+  keg_only :versioned_formula
+
   depends_on "php"
 
   def install
