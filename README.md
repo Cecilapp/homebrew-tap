@@ -25,7 +25,7 @@ brew tap cecilapp/tap
 Then run one of the following commands:
 
 ```bash
-brew install cecil       # latest version
-brew install cecil@beta  # latest beta
-brew install cecil@7     # branch 7
+brew install cecil          # latest version
+brew install cecil@preview  # preview version
+brew install cecil@7        # (old) branch 7
 ```
