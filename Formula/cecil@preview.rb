@@ -3,9 +3,9 @@ class CecilPreview < Formula
   homepage "https://cecil.app"
   license "MIT"
 
-  version "8.67.0-beta.3"
-  url "https://github.com/Cecilapp/Cecil/releases/download/8.67.0-beta.3/cecil.phar"
-  sha256 "3245f0f56322e8404d72fbb3c2bf87a9a56a0db6f7b059c15ccdcd4e72f2fe01"
+  version "8.67.0-beta.5"
+  url "https://github.com/Cecilapp/Cecil/releases/download/8.67.0-beta.5/cecil.phar"
+  sha256 "08df7f3c18ff832eb184d6bfb504de179ea86cae8ecae1278f1be7ac2804af94"
 
   keg_only :versioned_formula
 
