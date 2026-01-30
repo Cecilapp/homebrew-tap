@@ -13,7 +13,7 @@ brew install cecilapp/tap/cecil
 You can then run the `cecil` command from anywhere in the system:
 
 ```bash
-cecil --version
+cecil about
 ```
 
 If you need to install others versions of Cecil, first you need to _tap_ the repository:
@@ -25,7 +25,7 @@ brew tap cecilapp/tap
 Then run one of the following commands:
 
 ```bash
-brew install cecil          # latest version
-brew install cecil@preview  # preview version
-brew install cecil@7        # (old) branch 7
+brew install cecil          # install latest version
+brew install cecil@preview  # install next (preview) version
+brew install cecil@7        # install (old) branch 7
 ```
