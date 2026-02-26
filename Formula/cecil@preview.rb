@@ -1,4 +1,4 @@
-class CecilATpreview < Formula
+class CecilATPreview < Formula
   desc "A simple and powerful content-driven static site generator."
   homepage "https://cecil.app"
   license "MIT"
