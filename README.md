@@ -26,6 +26,6 @@ Then run one of the following commands:
 
 ```bash
 brew install cecil          # install latest version
-brew install cecil@preview  # install next (preview) version
-brew install cecil@7        # install (old) branch 7
+brew install cecil-preview  # install preview version
+brew install cecil@7        # install branch 7
 ```
